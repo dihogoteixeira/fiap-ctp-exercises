@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8461939a-b5f0-4f17-af3a-edda8301639f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a8w7L6CtF9ivdGKajC4ZEF78BL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="ToolWindowR Tools.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$DESKTOP$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09-" />
+      <recent name="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_08" />
+      <recent name="$PROJECT_DIR$/br/com/fiap/tds/NaNoCourse" />
+      <recent name="$PROJECT_DIR$/br/com/fiap/tds/Repeticoes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$DESKTOP$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Exercicio19">
+    <configuration name="Exercicio14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MeusProjetos_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09/Exercicio14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MeusProjetos_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09/Exercicio17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MeusProjetos_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09/Exercicio18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MeusProjetos_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09/Exercicio19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lista01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MeusProjetos_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NaNoCourse/Listas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NaNoCourse/Listas/Lista01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Exercicio19" />
+        <item itemvalue="Python.Lista01" />
+        <item itemvalue="Python.Exercicio14" />
+        <item itemvalue="Python.Exercicio18" />
+        <item itemvalue="Python.Exercicio17" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8461939a-b5f0-4f17-af3a-edda8301639f" name="Default Changelist" comment="" />
+      <created>1586130359291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586130359291</updated>
+      <workItem from="1586130367414" duration="18424000" />
+      <workItem from="1586734980274" duration="28195000" />
+      <workItem from="1587276638971" duration="4944000" />
+      <workItem from="1587590194777" duration="388000" />
+      <workItem from="1588124493101" duration="1566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="200" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588124728919">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="389" y="200" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1588124728919" />
+    <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586130624880">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1586130624880" />
+    <state x="450" y="316" key="Github.CreateGistDialog" timestamp="1586915747681">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="450" y="316" key="Github.CreateGistDialog/0.0.1280.800@0.0.1280.800" timestamp="1586915747681" />
+    <state width="1236" height="145" key="GridCell.Tab.0.bottom" timestamp="1588205100840">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="145" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1588205100840" />
+    <state width="1236" height="145" key="GridCell.Tab.0.center" timestamp="1588205100838">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="145" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1588205100838" />
+    <state width="1236" height="145" key="GridCell.Tab.0.left" timestamp="1588205100837">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="145" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1588205100837" />
+    <state width="1236" height="145" key="GridCell.Tab.0.right" timestamp="1588205100839">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="145" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1588205100839" />
+    <state x="228" y="150" key="IDE.errors.dialog" timestamp="1586131607407">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="150" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1586131607407" />
+    <state x="256" y="17" key="SettingsEditor" timestamp="1587317005230">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="256" y="17" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1587317005230" />
+    <state x="519" y="248" width="547" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1587315860774">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="519" y="248" width="547" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.800@0.0.1280.800" timestamp="1587315860774" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio19.coverage" NAME="Exercicio19 Coverage Results" MODIFIED="1588125659260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio13.coverage" NAME="Exercicio13 Coverage Results" MODIFIED="1586904944434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Lista01.coverage" NAME="Lista01 Coverage Results" MODIFIED="1587330591662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NaNoCourse/Listas" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$DecisaoEncadeada.coverage" NAME="DecisaoEncadeada Coverage Results" MODIFIED="1586136094676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio07.coverage" NAME="Exercicio07 Coverage Results" MODIFIED="1586749002019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/01_OlaPython$OlaMundo.coverage" NAME="OlaMundo Coverage Results" MODIFIED="1586133452282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio02.coverage" NAME="Exercicio02 Coverage Results" MODIFIED="1586144391637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio01__1_.coverage" NAME="Exercicio01 (1) Coverage Results" MODIFIED="1586739866564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$WhileInfinito.coverage" NAME="WhileInfinito Coverage Results" MODIFIED="1586137476415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/Repeticoes" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio02__1_.coverage" NAME="Exercicio02 (1) Coverage Results" MODIFIED="1586740259921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio04__1_.coverage" NAME="Exercicio04 (1) Coverage Results" MODIFIED="1586744140838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio03__1_.coverage" NAME="Exercicio03 (1) Coverage Results" MODIFIED="1586743971227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio04.coverage" NAME="Exercicio04 Coverage Results" MODIFIED="1586736888102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio18.coverage" NAME="Exercicio18 Coverage Results" MODIFIED="1586914026897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio01.coverage" NAME="Exercicio01 Coverage Results" MODIFIED="1586140763215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio10.coverage" NAME="Exercicio10 Coverage Results" MODIFIED="1586752758532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio03.coverage" NAME="Exercicio03 Coverage Results" MODIFIED="1586308223027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$DecisaoIf.coverage" NAME="DecisaoIf Coverage Results" MODIFIED="1586135229011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio09.coverage" NAME="Exercicio09 Coverage Results" MODIFIED="1586749845931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio12.coverage" NAME="Exercicio12 Coverage Results" MODIFIED="1586904866049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio15.coverage" NAME="Exercicio15 Coverage Results" MODIFIED="1586910793887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio06.coverage" NAME="Exercicio06 Coverage Results" MODIFIED="1586745553915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio05.coverage" NAME="Exercicio05 Coverage Results" MODIFIED="1586745113653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio17.coverage" NAME="Exercicio17 Coverage Results" MODIFIED="1586912779444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio14.coverage" NAME="Exercicio14 Coverage Results" MODIFIED="1586915526624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+    <SUITE FILE_PATH="coverage/MeusProjetos_Python$Exercicio08.coverage" NAME="Exercicio08 Coverage Results" MODIFIED="1586749823784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/br/com/fiap/tds/CTUP/AULA_09" />
+  </component>
+</project>
